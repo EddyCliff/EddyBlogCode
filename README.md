@@ -1,5 +1,4 @@
-语言：中文 | [English](https://github.com/EddyCliff/EddyBlogCode/blob/main/README.md)
-
+语言：中文 
 > 该主题根据Hugo PaperMod主题修改而来: https://github.com/adityatelange/hugo-PaperMod
 
 ### [博客DEMO](https://eddycliff.github.io/)
