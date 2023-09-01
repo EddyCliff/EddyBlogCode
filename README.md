@@ -45,4 +45,4 @@ gallery:
 
 ## 5. 可能遇到的问题
 
-1. 有些使用者会部署到github，可能遇到跨系统的问题，如提示`LF will be replaced by CRLF in ******`，这时输入命令：`git config core.autocrlf false`，解决换行符自动转换的问题。
+- 有些使用者会部署到`github`，输入`git add -A`命令后，如提示`warning:LF will be replaced by CRLF in ******`，这时可以不用管，没有什么实际影响，继续`git commit`.
