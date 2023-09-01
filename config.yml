@@ -25,12 +25,12 @@ minify:
 permalinks: # 访问博客时网址的显示形式
   post: "/:title/"
   # post: "/:year/:month/:day/:title/"
-
-defaultContentLanguage: en # 最顶部首先展示的语言页面
-defaultContentLanguageInSubdir: true
+defaultContentLanguage: zh # 最顶部首先展示的语言页面
+#defaultContentLanguage: en # 最顶部首先展示的语言页面
+#defaultContentLanguageInSubdir: true
 
 languages:
-  en:
+  zh:
     params:
       languageName: "English"
       weight: 1
@@ -89,9 +89,9 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "EddyCliff的个人博客"
-  author: Sulv
+  author: Eddy
   # author: ["Me", "You"] # multiple authors
-  keywords: [Blog, Portfolio, PaperMod, Hugo, Github]
+  keywords: [Blog, Portfolio, PaperMod, Hugo, Github, Wedsite]
   defaultTheme: auto  # defaultTheme: light or  dark
   disableThemeToggle: false
   DateFormat: "2006-01-02"
@@ -129,7 +129,7 @@ params:
     #- name: bilibili
     #  url: "https://space.bilibili.com/234461224"
     - name: email
-      url: "mailto:484179172@qq.com"
+      url: "mailto:korgtest1518@gmail.com"
     - name: csdn
       url: "https://blog.csdn.net/m0_51993913?spm=1010.2135.3001.5343"
     #- name: RSS
@@ -228,9 +228,9 @@ privacy:
     disabled: false
     privacyEnhanced: true
 
-services:
-  instagram:
-    disableInlineCSS: true
-  twitter:
-    disableInlineCSS: true
+#services:
+  #instagram:
+    #disableInlineCSS: true
+  #twitter:
+    #disableInlineCSS: true
         
