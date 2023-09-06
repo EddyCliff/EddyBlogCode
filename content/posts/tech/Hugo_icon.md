@@ -71,21 +71,21 @@ params:
 
 2. 搜索你需要的网站`icon`，以`csdn`为例
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/1.png)
 
-3. 选定合适的`icon`
+1. 选定合适的`icon`
 
-![2.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/2.png)
+![2.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/2.png)
 
-4. 点击图像，添加入库
+1. 点击图像，添加入库
 
-![3.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/3.png)
+![3.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/3.png)
 
-5. 添加至项目，创建项目`Hugo`，加入至项目`Hugo`
+1. 添加至项目，创建项目`Hugo`，加入至项目`Hugo`
 
-![4.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/4.png)
+![4.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/4.png)
 
-6. 点击图像，对尺寸进行编辑（假如不知道怎么把握尺寸的话，可以先不编辑）
+1. 点击图像，对尺寸进行编辑（假如不知道怎么把握尺寸的话，可以先不编辑）
 
 ![5.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_icon/5.png)
 
