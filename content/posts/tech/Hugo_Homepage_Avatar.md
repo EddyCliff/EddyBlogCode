@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】设置主页头像"
+title: "【Hugo网站搭建】设置主页头像"
 date: 2023-03-11T00:17:58+08:00
 lastmod: 2023-03-11T00:17:58+08:00
 author: ["Eddy"]
@@ -68,7 +68,7 @@ languages:
 
 主页头像 image 即为下图中圆形图像
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Homepage_Avatar/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Homepage_Avatar/1.png)
 
 ---
 

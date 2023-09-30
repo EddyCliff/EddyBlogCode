@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】主题美化-添加emoji"
+title: "【Hugo网站搭建】主题美化-添加emoji"
 date: 2023-05-13T00:17:58+08:00
 lastmod: 2023-05-13T00:17:58+08:00
 author: ["Eddy"]
@@ -82,7 +82,7 @@ menu:
 
 ### 3.效果图
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_emoji/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_emoji/1.png)
 
 ---
 

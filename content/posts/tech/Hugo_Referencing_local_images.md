@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】markdown引用本地图片"
+title: "【Hugo网站搭建】实现post-markdown引用本地图片"
 date: 2023-08-13T00:17:58+08:00
 lastmod: 2023-08-13T00:17:58+08:00
 author: ["Eddy"]

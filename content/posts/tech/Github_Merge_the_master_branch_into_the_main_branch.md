@@ -1,5 +1,5 @@
 ---
-title: "【Github】将仓库中的master分支合并到main分支"
+title: "【Github使用指南】将仓库中的master分支合并到main分支"
 date: 2023-06-20T00:17:58+08:00
 lastmod: 2023-06-20T00:17:58+08:00
 author: ["Eddy"]

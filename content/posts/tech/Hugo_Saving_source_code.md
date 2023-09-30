@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】在Github仓库分别储存博客源码和静态页面"
+title: "【Hugo网站搭建】在Github仓库分别储存博客源码和静态页面"
 date: 2023-08-11T00:17:58+08:00
 lastmod: 2023-08-11T00:17:58+08:00
 author: ["Eddy"]

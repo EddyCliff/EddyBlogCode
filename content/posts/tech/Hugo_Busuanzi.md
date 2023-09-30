@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】添加不蒜子Busuanzi页面浏览次数与阅读数据统计"
+title: "【Hugo网站搭建】添加不蒜子Busuanzi页面浏览次数与阅读数据统计"
 date: 2023-07-10T00:17:58+08:00
 lastmod: 2023-07-10T00:17:58+08:00
 author: ["Eddy"]
@@ -57,7 +57,7 @@ cover:
 {{- end -}}
 ```
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Busuanzi/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Busuanzi/1.png)
 
 ### footer.html
 
@@ -81,7 +81,7 @@ cover:
 {{- end -}}
 ```
 
-![2.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Busuanzi/2.png)
+![2.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Busuanzi/2.png)
 
 ### single.html
 
@@ -100,7 +100,7 @@ cover:
 {{- end }}
 ```
 
-![3.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Busuanzi/3.png)
+![3.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Busuanzi/3.png)
 
 ### config.yml
 

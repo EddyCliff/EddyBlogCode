@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】markdown引入树状目录"
+title: "【Hugo网站搭建】实现post-markdown引入树状目录"
 date: 2023-08-25T00:17:58+08:00
 lastmod: 2023-08-25T00:17:58+08:00
 author: ["Eddy"]
@@ -45,7 +45,7 @@ cover:
 
 ### 1.在想要生成树形结构的文件夹目录下运行`powershell`，输入命令`tree`
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Introduce_a_tree_directory/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Introduce_a_tree_directory/1.png)
 
 输入命令`tree`生成树形目录（示例）：
 

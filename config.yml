@@ -48,6 +48,8 @@ languages:
             url: posts/tech
           - name: 💽 项目
             url: posts/projects
+          - name: 📕 阅读
+            url: posts/read
           - name: 🎶 艺术
             url: posts/art
           

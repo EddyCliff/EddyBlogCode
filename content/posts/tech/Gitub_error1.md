@@ -1,5 +1,5 @@
 ---
-title: "【Github】bug日记-OpenSSL SSL_read"
+title: "【Github使用指南】bug日志-OpenSSL SSL_read"
 date: 2023-06-20T00:17:58+08:00
 lastmod: 2023-06-20T00:17:58+08:00
 author: ["Eddy"]

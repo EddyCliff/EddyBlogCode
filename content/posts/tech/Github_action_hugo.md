@@ -28,7 +28,7 @@ hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
 disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 cover:
-    image: "https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/BlogCover/website1.jpg" #图片路径例如：posts/tech/123/123.png
+    image: "https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/BlogCover/website1.jpg" #图片路径例如：posts/tech/123/123.png
     caption: "" #图片底部描述
     alt: ""
     relative: false
@@ -135,17 +135,17 @@ jobs:
 
 ![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Github_action_hugo/1.png)
 
-2 **配置Personal Access Token的权限**：
+2. **配置Personal Access Token的权限**：
 
     当您生成`Personal Access Token`时，需要为其分配适当的权限。根据您的需求，可以为其分配不同的权限，例如访问仓库、读取用户资料等。请谨慎选择权限，最小化所需的权限以提高安全性。
 
 ![2.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Github_action_hugo/2.png)
 
-3 **生成令牌**：
+3. **生成令牌**：
 
     在配置了权限后，滚动到页面底部，然后单击`Generate token`（生成令牌）。`GitHub`将生成一个令牌，并将其显示在屏幕上。请务必将此令牌复制到安全的地方，因为在生成后，您将无法再次查看完整的令牌。
 
-4 **将令牌添加到GitHub仓库的Secrets**：
+4. **将令牌添加到GitHub仓库的Secrets**：
 
     - 转到包含您的博客源文件的GitHub仓库。
 

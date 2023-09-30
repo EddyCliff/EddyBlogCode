@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】githubpages对应仓库username.github.io"
+title: "【Hugo网站搭建】githubpages对应仓库username.github.io"
 date: 2023-03-11T00:17:58+08:00
 lastmod: 2023-03-11T00:17:58+08:00
 author: ["Eddy"]

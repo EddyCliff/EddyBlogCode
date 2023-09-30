@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】bug日记-hugo server失败"
+title: "【Hugo网站搭建】bug日志-hugo server失败"
 date: 2023-08-20T00:17:58+08:00
 lastmod: 2023-08-20T00:17:58+08:00
 author: ["Eddy"]

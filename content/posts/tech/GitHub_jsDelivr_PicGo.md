@@ -1,5 +1,5 @@
 ---
-title: "【博客写作指南】GitHub+jsDelivr+PicGo搭建博客图床"
+title: "【Hugo网站搭建】GitHub+jsDelivr+PicGo搭建博客图床"
 date: 2023-08-29T00:17:58+08:00
 lastmod: 2023-08-29T00:17:58+08:00
 author: ["Eddy"]
@@ -66,15 +66,15 @@ cover:
 
 登录你的 `GitHub` 账号，点击页面右上角的`+`按钮，选择`New repository`来创建一个新的仓库。这个仓库将用于存储你的博客图片资源。
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/1.png)
 
 ### 第三步：生成 GitHub Token
 
 为了让 `PicGo` 能够上传图片至 `GitHub`仓库，我们需要生成一个 `Token`。前往 [GitHub Settings](https://github.com/settings/profile) 页面，点击左侧菜单中的`Developer settings`，然后选择`Personal access tokens`。点击`Generate new token`，并为它授予`repo`权限，然后翻到页面最底部，点击`Generate token`的绿色按钮生成`token`。
 
-![2.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/2.png)
+![2.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/2.png)
 
-![3.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/3.png)
+![3.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/3.png)
 ### 第四步：安装并配置 PicGo
 
 `PicGo`官方指南：[https://picgo.github.io/PicGo-Doc/zh/guide/#picgo-is-here](https://picgo.github.io/PicGo-Doc/zh/guide/#picgo-is-here)
@@ -95,7 +95,7 @@ cover:
 }
 ```
 
-![4.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/4.png)
+![4.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/4.png)
 ### 第五步：使用自定义域名
 
 为了优化图片加载速度，我们将使用 `jsDelivr` 提供的 `CDN` 服务。在 `PicGo` 的 `GitHub` 图床设置中，设置自定义域名为：`https://cdn.jsdelivr.net/gh/你的GitHub用户名/仓库名`。
@@ -104,7 +104,7 @@ cover:
 
 现在，你可以使用 `PicGo` 强大的功能了。通过快捷键或剪贴板图片上传，将图片上传到你的 `GitHub` 仓库。`PicGo` 将自动为你生成图片外链，方便你插入到博客文章中。
 
-![5.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/5.png)
+![5.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/GitHub_jsDelivr_PicGo/5.png)
 
 ## 总结
 

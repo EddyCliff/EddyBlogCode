@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】bug日记-将网站部署到GitHub远程仓库时出现了错误"
+title: "【Hugo网站搭建】bug日志-将网站部署到GitHub远程仓库时出现了错误"
 date: 2023-04-17T00:17:58+08:00
 lastmod: 2023-04-17T00:17:58+08:00
 author: ["Eddy"]

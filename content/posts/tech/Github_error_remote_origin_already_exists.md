@@ -1,5 +1,5 @@
 ---
-title: "【Github】bug日记-git remote"
+title: "【Github使用指南】bug日志-git remote"
 date: 2023-07-20T00:17:58+08:00
 lastmod: 2023-07-20T00:17:58+08:00
 author: ["Eddy"]

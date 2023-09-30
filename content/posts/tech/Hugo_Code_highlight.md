@@ -1,5 +1,5 @@
 ---
-title: "【Hugo】代码高亮"
+title: "【Hugo网站搭建】实现代码高亮"
 date: 2023-06-10T00:17:58+08:00
 lastmod: 2023-06-11T00:17:58+08:00
 author: ["Eddy"]
@@ -121,5 +121,5 @@ markup:
 
 这个网页呈现了所有`markup`的`style`样式，如下图所示
 
-![1.png](https://cdn.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Code_highlight/1.png)
+![1.png](https://testingcf.jsdelivr.net/gh/EddyCliff/ChartBed/Hugo_Code_highlight/1.png)
 
