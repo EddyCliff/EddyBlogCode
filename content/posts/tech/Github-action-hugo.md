@@ -8,6 +8,7 @@ keywords:
 - Github
 - Hugo
 - Website construction
+- Hugo网站搭建
 categories: 
 - 
 tags: 
@@ -15,8 +16,9 @@ tags:
 - Github
 - Hugo
 - Website construction
+- Hugo网站搭建
 description: 
-weight: 3
+weight: 1
 slug: ""
 draft: false # 是否为草稿
 comments: false

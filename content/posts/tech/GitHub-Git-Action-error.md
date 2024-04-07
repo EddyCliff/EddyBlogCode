@@ -14,7 +14,7 @@ tags:
 - error
 - Github action
 description: ""
-weight: 4
+weight: 3
 slug: ""
 draft: false # 是否为草稿
 comments: false

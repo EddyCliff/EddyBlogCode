@@ -1,18 +1,19 @@
 ---
-title: "【Github使用指南】bug日志-git remote"
-date: 2023-07-20T00:17:58+08:00
-lastmod: 2023-07-20T00:17:58+08:00
+title: "【Github使用指南】bug日志-OpenSSL SSL_read"
+date: 2023-06-20T00:17:58+08:00
+lastmod: 2023-06-20T00:17:58+08:00
 author: ["Eddy"]
 keywords: 
 - Github
 - error
+- SSL
 categories: 
 - 
 tags: 
 - Github
 - error
-description: "解决{error: remote origin already exists.}"
-weight:
+description: "解决{OpenSSL SSL_read: Connection was reset, errno 10054}"
+weight: 4
 slug: ""
 draft: false # 是否为草稿
 comments: false
@@ -31,49 +32,32 @@ cover:
 ---
 ## 项目场景：
 
-`Git bash` 
+`Git bash`
 
 ---
 
 ## 问题描述：
 
-进行`git remote add origin https://github.com/你的用户名/你的用户名.github.io.git`命令时
+进行`git push -f origin master`命令
 
-出现错误：`error: remote origin already exists`
+出现错误：`fatal: unable to access ' 我的库的http路径 ': OpenSSL SSL_read: Connection was reset, errno 10054`
 
 ---
 
 ## 原因分析：
 
-与本地仓库关联的远程仓库已经存在，无法进行新的关联
+无法关联`github`的远程库,`SSL`连接被重置
 
 ---
 
 ## 解决方案：
 
-1. 删除已关联的远程库
+使用命令行解除`SSL`认证
 
 ```bash
-git remote rm origin 
+git config --global http.sslVerify "false"
+git config --global https.sslVerify "false"
 ```
-
-2. 关联正确的远程仓库
-
-```bash
-git remote add origin https://github.com/你的用户名/你的用户名.github.io.git
-```
-
-3. 推送到正确的仓库
-
-```bash
-git push -f origin main
-```
-
-
-
-
-
-
 
 
 

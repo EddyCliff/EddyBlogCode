@@ -22,7 +22,7 @@
 <ul class="terms-tags">
     {{- $type := .Type }}
     {{- range $key, $value := .Data.Terms.Alphabetical }}
-    {{- $name := .Name }}
+    {{- $name := .PlainName }}
     {{- $count := .Count }}
     {{- with $.Site.GetPage (printf "/%s/%s" $type $name) }}
     <li>
